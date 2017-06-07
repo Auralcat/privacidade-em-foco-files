@@ -2,8 +2,7 @@
 
 [Empresa diz que Apple guarda secretamente o histórico de chamadas do iPhone](http://newscdn.newsrep.net/h5/nrshare.html)
 
-[Usuários correm para e-mail criptografado após eleição de Trump - IDG Now!]
-(http://idgnow.com.br/internet/2016/11/14/usuarios-correm-para-e-mail-criptografado-apos-eleicao-de-trump/)
+[Usuários correm para e-mail criptografado após eleição de Trump - IDG Now!](http://idgnow.com.br/internet/2016/11/14/usuarios-correm-para-e-mail-criptografado-apos-eleicao-de-trump/)
 
 [Auditoria segurança OpenVPN](http://www.hackplayers.com/2016/12/preparan-una-auditoria-para-openvpn.html)
 
